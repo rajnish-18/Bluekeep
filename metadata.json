@@ -1,0 +1,5 @@
+{
+  "name": "Bluekeep",
+  "description": "A client-side, zero-knowledge web vault for encrypted notes and secrets using AES-256-GCM.",
+  "requestFramePermissions": []
+}
